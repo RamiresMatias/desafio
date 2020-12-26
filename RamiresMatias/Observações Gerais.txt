@@ -1,0 +1,14 @@
+Back-end:{
+
+° Não possuo conhecimentos sólidos em sequelize, logo, utilizei as auls da rocketseat para auxiliar no projeto. Acredito que talvez fiquem com dúvidas em alguma linha de código ou se deixei de fazer algo.
+
+° Pode ser que alguns dados estejam tipados icorretamente como o "ic_bezerro". Pois não faço ideia do que seja essa abreviação, então considerei o mais a possibilidade mais próxima, então o defini como BOOLEAN.
+	
+} 
+
+Front-end: {
+
+° Utilizei o bootstrap-vue, como podem ver nas nomenclaturas das tags que começam com "b". Achei interessante utilizar devido a facilidade e simplicidade na utilização.
+° Utilizei a biblioteca Moment Js para formatação de data nos campos da tabela.
+
+}

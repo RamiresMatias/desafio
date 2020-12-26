@@ -1,0 +1,6 @@
+const path = require('path'); //Path do node, para lidar com caminhos na pasta
+
+module.exports = {
+    config: path.resolve(__dirname, 'config', 'database.js'),
+    'migrations-path': path.resolve(__dirname, 'database', 'migrations'),
+}
